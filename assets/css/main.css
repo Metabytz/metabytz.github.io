@@ -1076,6 +1076,7 @@ p {
 @media (max-width: 767px) {
   .about-section.pt-150 {
     padding-top: 100px;
+    overflow: hidden;
   }
 }
 
