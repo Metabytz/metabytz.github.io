@@ -592,6 +592,8 @@ p {
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #162447;
 }
 
 .sticky {
@@ -664,7 +666,7 @@ p {
 .navbar-toggler .toggler-icon {
   width: 30px;
   height: 2px;
-  background-color: #fff;
+  background-color: #162447;
   display: block;
   margin: 5px 0;
   position: relative;
@@ -721,7 +723,7 @@ p {
 .navbar-nav .nav-item a {
   font-size: 18px;
   font-weight: 400;
-  color: #fff;
+  color: #162447;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   padding: 10px 0;
@@ -1369,7 +1371,7 @@ p {
   background-image: url("../img/footer/footer-bg.svg");
   background-size: cover;
   background-position: top right;
-  padding-top: 260px;
+  padding-top: 370px;
   margin-top: 100px;
 }
 
